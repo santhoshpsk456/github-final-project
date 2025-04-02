@@ -1,3 +1,4 @@
+#Simple Interest Calculator
 A calculator that calculates simple interest given principal,annual rate of interestandtime periodinyears.
 Input:
 p,principal amount
